@@ -1,3 +1,3 @@
 # Starbucks Homepage Clone
 
-![Starbucks clone](./mock.png)
+![Starbucks clone](mock.png)
